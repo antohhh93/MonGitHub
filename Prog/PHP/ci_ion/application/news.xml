@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+	<nouvelle slug="une_nouvelle">
+		<title>une nouvelle</title>
+		<texte>la nouvelle est écrite ici</texte>
+	</nouvelle>
+	<nouvelle slug="autre_nouvelle">
+		<title>autre nouvelle</title>
+		<texte>seconde news</texte>
+	</nouvelle>
+</news>
